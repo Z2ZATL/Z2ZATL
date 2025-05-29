@@ -16,7 +16,7 @@ Hello, I am Z2ZATL 🖐️, but some people also call me MORI 🌳. I’m passio
 [![](https://visitcount.itsvg.in/api?id=Z2ZATL&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Z2ZATL) 
+  [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/z2zatl)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
